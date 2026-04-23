@@ -3,7 +3,7 @@ This repository contains the implementation for the assignment on linear cryptan
 ---
 
 ## Objectives
-The main objectives of this project are:
+The main objectives of this project are following:
 - Generate and interpret **Linear Approximation Tables**
 - Identify useful linear approximation with high bias
 - Perform a key recovery experiment using linear cryptanalysis
